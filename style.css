@@ -1,0 +1,16 @@
+.row{
+    margin-top: 2rem;
+}
+.price{
+    color: coral;
+    font-weight: bold;
+}
+.old-price{
+text-decoration: line-through;
+}
+.card{
+    border-radius: 20px;
+}
+.card-img-top{
+    min-height: 500px;
+}
